@@ -14,9 +14,6 @@ export class AppComponent {
 
   constructor() {
     webGlObject.init();
-
-    add('genp', 'CodPaq:106,0');
-    bcp();
   }
 
   funcion1() {
