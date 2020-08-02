@@ -3,9 +3,6 @@ import { Component } from '@angular/core';
 declare var myExtObject: any;
 declare var webGlObject: any;
 
-
-declare var add: any;
-declare var bcp: any;
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
@@ -15,10 +12,6 @@ declare var bcp: any;
 
 export class AppComponent {
 
-  /*
-  add('genp', 'CodPaq:106,0');
-    bcp();
-    */
   constructor() {
     webGlObject.init();
 
