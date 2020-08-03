@@ -14,7 +14,7 @@
 ´´´
 "scripts": [
   .....
-  declare const myTest: any;
+  declare const Funcion123: any;
 ]
 ´´´
 
