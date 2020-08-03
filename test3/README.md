@@ -61,3 +61,6 @@ callFunction2() {
     <button (click)="callFunction2()">Call Function 2</button>
 </div>
 ´´´
+
+### Referencias:
+https://stackoverflow.com/questions/44817349/how-do-i-include-a-javascript-script-file-in-angular-and-call-a-function-from-th
